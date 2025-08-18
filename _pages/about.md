@@ -187,9 +187,10 @@ Boce Hu, **Dian Wang**, David Klee, Heng Tian, Xupeng Zhu, Haojie Huang, Robert 
 <div class="project-img-container">
   <img src="images/haibo_hep.png" alt="" style="width: 210px; height: auto;">
 </div>
-<a href="https://arxiv.org/pdf/2502.05728" style="text-decoration: none; color: inherit;"><strong>Hierarchical Equivariant Policy via Frame Transfer</strong></a>  
+<a href="https://codemasterzhao.github.io/HierEquiPo.github.io/" style="text-decoration: none; color: inherit;"><strong>Hierarchical Equivariant Policy via Frame Transfer</strong></a>  
 Haibo Zhao\*, **Dian Wang\***, Yizhe Zhu, Xupeng Zhu, Owen Howell, Linfeng Zhao, Yaoyao Qian, Robin Walters, Robert Platt  
 *ICML 2025*  
+<button class="button-4" onclick="window.open('https://codemasterzhao.github.io/HierEquiPo.github.io/','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2502.05728','_blank')">PDF</button>
 <br>
 
@@ -205,9 +206,10 @@ Boce Hu\*, Heng Tian\*, **Dian Wang**, Haojie Huang, Xupeng Zhu, Robin Walters, 
 <div class="project-img-container">
   <img src="images/mingxi_gem.png" alt="" style="width: 220px; height: auto;">
 </div>
-<a href="https://arxiv.org/pdf/2406.15677" style="text-decoration: none; color: inherit;"><strong>Learning Efficient and Robust Language-conditioned Manipulation using Textual-Visual Relevancy and Equivariant Language Mapping</strong></a>  
+<a href="https://mingxi-jia.github.io/gem_page/" style="text-decoration: none; color: inherit;"><strong>Learning Efficient and Robust Language-conditioned Manipulation using Textual-Visual Relevancy and Equivariant Language Mapping</strong></a>  
 Mingxi Jia, Haojie Huang, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, **Dian Wang**, Jason Xinyu Liu, Robin Walters, Robert Platt, Stefanie Tellex  
 *RAL 2025*  
+<button class="button-4" onclick="window.open('https://mingxi-jia.github.io/gem_page/','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2406.15677','_blank')">PDF</button>
 <br>
 
