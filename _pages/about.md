@@ -197,9 +197,10 @@ Haibo Zhao\*, **Dian Wang\***, Yizhe Zhu, Xupeng Zhu, Owen Howell, Linfeng Zhao,
 <div class="project-img-container">
   <img src="images/boce_push_grasp.png" alt="" style="width: 220px; height: auto;">
 </div>
-<a href="https://arxiv.org/pdf/2504.03053" style="text-decoration: none; color: inherit;"><strong>Push-Grasp Policy Learning Using Equivariant Models and Grasp Score Optimization</strong></a>  
+<a href="https://equipushgrasp.github.io" style="text-decoration: none; color: inherit;"><strong>Push-Grasp Policy Learning Using Equivariant Models and Grasp Score Optimization</strong></a>  
 Boce Hu\*, Heng Tian\*, **Dian Wang**, Haojie Huang, Xupeng Zhu, Robin Walters, Robert Platt  
 *RAL 2025*  
+<button class="button-4" onclick="window.open('https://equipushgrasp.github.io','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2504.03053','_blank')">PDF</button>
 <br>
 
@@ -502,8 +503,7 @@ Ondrej Biza, **Dian Wang**, Robert Platt, Jan-Willem van de Meent, Lawson LS Won
 
 ## Service
 **Organizer:** RSS2023 Workshop on Symmetries in Robot Learning; RSS 2024 Workshop on Geometric and Algebraic Structure in Robot Learning  
-**Reviewer:** RSS 2025. IJRR 2024. ICML 2024. ICLR 2023-2025. NeurIPS 2023, 2025. ICRA 2019, 2022-2024. CoRL 2022-2025. IROS
-2021, 2023, 2025. RAL 2022-2024. T-RO 2022.
+**Reviewer:** Science Robotics 2025. Pattern Recognition 2025. RSS 2025. IJRR 2024. ICML 2024. ICLR 2023-2025. NeurIPS 2023, 2025. ICRA 2019, 2022-2024. CoRL 2022-2025. IROS 2021, 2023, 2025. RAL 2022-2025. T-RO 2022.
 
 ## Education
 + (2020-2025) Ph.D., Computer Science, Northeastern University, Boston, USA
