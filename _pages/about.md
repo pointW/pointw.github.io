@@ -170,7 +170,7 @@ document.addEventListener("DOMContentLoaded", function() {
   <img src="images/rel_traj.png" alt="" style="width: 180px; height: auto;">
 </div>
 <a href="https://arxiv.org/pdf/2505.13431" style="text-decoration: none; color: inherit;"><strong>A Practical Guide for Incorporating Symmetry in Diffusion Policy</strong></a>  
-**Dian Wang**, Boce Hu, Shuran Song, Robin Walters, Robert Platt  
+**Dian Wang**, Boce Hu, Shuran Song, Robin Walters<sup>†</sup>, Robert Platt<sup>†</sup>  
 *NeurIPS 2025*  
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2505.13431','_blank')">PDF</button>
 <br><br>
