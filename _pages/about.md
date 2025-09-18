@@ -171,7 +171,7 @@ document.addEventListener("DOMContentLoaded", function() {
 </div>
 <a href="https://arxiv.org/pdf/2505.13431" style="text-decoration: none; color: inherit;"><strong>A Practical Guide for Incorporating Symmetry in Diffusion Policy</strong></a>  
 **Dian Wang**, Boce Hu, Shuran Song, Robin Walters, Robert Platt  
-*Preprint*  
+*NeurIPS 2025*  
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2505.13431','_blank')">PDF</button>
 <br><br>
 
@@ -180,7 +180,7 @@ document.addEventListener("DOMContentLoaded", function() {
 </div>
 <a href="https://arxiv.org/pdf/2505.16969" style="text-decoration: none; color: inherit;"><strong>3D Equivariant Visuomotor Policy Learning via Spherical Projection</strong></a>  
 Boce Hu, **Dian Wang**, David Klee, Heng Tian, Xupeng Zhu, Haojie Huang, Robert Platt, Robin Walters  
-*Preprint*  
+*NeurIPS 2025*  
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2505.16969','_blank')">PDF</button>
 <br>
 
