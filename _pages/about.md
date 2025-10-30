@@ -167,20 +167,32 @@ document.addEventListener("DOMContentLoaded", function() {
 </style>
 
 <div class="project-img-container" style="width: 220px">
+  <img src="images/haibo_gsl.png" alt="" style="width: 170px; height: auto;">
+</div>
+<a href="https://codemasterzhao.github.io/GSL/" style="text-decoration: none; color: inherit;"><strong>Generalizable Hierarchical Skill Learning via Object-Centric Representation</strong></a>  
+Haibo Zhao, Yu Qi, Boce Hu, Yizhe Zhu, Ziyan Chen, Xupeng Zhu, Owen Howell, Haojie Huang, Robin Walters, **Dian Wang<sup>†</sup>**, Robert Platt<sup>†</sup>  
+*Preprint*  
+<button class="button-4" onclick="window.open('https://codemasterzhao.github.io/GSL/','_blank')">Webpage</button>
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2510.21121','_blank')">PDF</button>
+<br>
+
+<div class="project-img-container" style="width: 220px">
   <img src="images/rel_traj.png" alt="" style="width: 180px; height: auto;">
 </div>
-<a href="https://arxiv.org/pdf/2505.13431" style="text-decoration: none; color: inherit;"><strong>A Practical Guide for Incorporating Symmetry in Diffusion Policy</strong></a>  
+<a href="https://sym-in-dp.github.io" style="text-decoration: none; color: inherit;"><strong>A Practical Guide for Incorporating Symmetry in Diffusion Policy</strong></a>  
 **Dian Wang**, Boce Hu, Shuran Song, Robin Walters<sup>†</sup>, Robert Platt<sup>†</sup>  
 *NeurIPS 2025*  
+<button class="button-4" onclick="window.open('https://sym-in-dp.github.io','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2505.13431','_blank')">PDF</button>
 <br><br>
 
 <div class="project-img-container">
   <img src="images/boce_i2s.gif" alt="" style="width: 220px; height: auto;">
 </div>
-<a href="https://arxiv.org/pdf/2505.16969" style="text-decoration: none; color: inherit;"><strong>3D Equivariant Visuomotor Policy Learning via Spherical Projection</strong></a>  
+<a href="https://isp-3d.github.io" style="text-decoration: none; color: inherit;"><strong>3D Equivariant Visuomotor Policy Learning via Spherical Projection</strong></a>  
 Boce Hu, **Dian Wang**, David Klee, Heng Tian, Xupeng Zhu, Haojie Huang, Robert Platt, Robin Walters  
 *NeurIPS 2025, **Spotlight***  
+<button class="button-4" onclick="window.open('https://isp-3d.github.io','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2505.16969','_blank')">PDF</button>
 <br>
 
@@ -501,11 +513,11 @@ Ondrej Biza, **Dian Wang**, Robert Platt, Jan-Willem van de Meent, Lawson LS Won
 \* indicates equal contribution; <sup>†</sup> indicates equal advising.  
 <!-- <sup><i class="fa-regular fa-envelope"></i></sup> indicates corresponding author;  -->
 
-## Service
+<!-- ## Service
 **Organizer:** RSS2023 Workshop on Symmetries in Robot Learning; RSS 2024 Workshop on Geometric and Algebraic Structure in Robot Learning  
 **Reviewer:** Science Robotics 2025. Pattern Recognition 2025. RSS 2025. IJRR 2024. ICML 2024. ICLR 2023-2025. NeurIPS 2023, 2025. ICRA 2019, 2022-2024. CoRL 2022-2025. IROS 2021, 2023, 2025. RAL 2022-2025. T-RO 2022.
 
 ## Education
 + (2020-2025) Ph.D., Computer Science, Northeastern University, Boston, USA
 + (2017-2019) M.S, Computer Science, Northeastern University, Boston, USA
-+ (2013-2017) B.Eng, Computer Science & Technology, Sichuan University, Chengdu, China
++ (2013-2017) B.Eng, Computer Science & Technology, Sichuan University, Chengdu, China -->
