@@ -167,16 +167,6 @@ document.addEventListener("DOMContentLoaded", function() {
 </style>
 
 <div class="project-img-container" style="width: 220px">
-  <img src="images/haibo_gsl.png" alt="" style="width: 170px; height: auto;">
-</div>
-<a href="https://codemasterzhao.github.io/GSL/" style="text-decoration: none; color: inherit;"><strong>Generalizable Hierarchical Skill Learning via Object-Centric Representation</strong></a>  
-Haibo Zhao, Yu Qi, Boce Hu, Yizhe Zhu, Ziyan Chen, Xupeng Zhu, Owen Howell, Haojie Huang, Robin Walters, **Dian Wang<sup>†</sup>**, Robert Platt<sup>†</sup>  
-*Preprint*  
-<button class="button-4" onclick="window.open('https://codemasterzhao.github.io/GSL/','_blank')">Webpage</button>
-<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2510.21121','_blank')">PDF</button>
-<br>
-
-<div class="project-img-container" style="width: 220px">
   <img src="images/rel_traj.png" alt="" style="width: 180px; height: auto;">
 </div>
 <a href="https://sym-in-dp.github.io" style="text-decoration: none; color: inherit;"><strong>A Practical Guide for Incorporating Symmetry in Diffusion Policy</strong></a>  
@@ -194,6 +184,26 @@ Boce Hu, **Dian Wang**, David Klee, Heng Tian, Xupeng Zhu, Haojie Huang, Robert 
 *NeurIPS 2025, **Spotlight***  
 <button class="button-4" onclick="window.open('https://isp-3d.github.io','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2505.16969','_blank')">PDF</button>
+<br>
+
+<div class="project-img-container" style="width: 220px">
+  <img src="images/yizhe_equitac.png" alt="" style="width: 170px; height: auto;">
+</div>
+<a href="https://yizhezhu0925.github.io/equitac.github.io/" style="text-decoration: none; color: inherit;"><strong>Residual Rotation Correction using Tactile Equivariance</strong></a>  
+Yizhe Zhu, Zhang Ye, Boce Hu, Haibo Zhao, Yu Qi, **Dian Wang<sup>†</sup>**, Robert Platt<sup>†</sup>  
+*Preprint*  
+<button class="button-4" onclick="window.open('https://yizhezhu0925.github.io/equitac.github.io/','_blank')">Webpage</button>
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2511.07381','_blank')">PDF</button>
+<br>
+
+<div class="project-img-container" style="width: 220px">
+  <img src="images/haibo_gsl.png" alt="" style="width: 170px; height: auto;">
+</div>
+<a href="https://codemasterzhao.github.io/GSL/" style="text-decoration: none; color: inherit;"><strong>Generalizable Hierarchical Skill Learning via Object-Centric Representation</strong></a>  
+Haibo Zhao, Yu Qi, Boce Hu, Yizhe Zhu, Ziyan Chen, Xupeng Zhu, Owen Howell, Haojie Huang, Robin Walters, **Dian Wang<sup>†</sup>**, Robert Platt<sup>†</sup>  
+*Preprint*  
+<button class="button-4" onclick="window.open('https://codemasterzhao.github.io/GSL/','_blank')">Webpage</button>
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2510.21121','_blank')">PDF</button>
 <br>
 
 <div class="project-img-container">
