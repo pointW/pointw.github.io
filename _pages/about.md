@@ -15,7 +15,7 @@ published: true
 
 I am a Postdoctoral researcher at Stanford University working with [Prof. Shuran Song](https://shurans.github.io) and [Prof. Jeannette Bohg](https://web.stanford.edu/~bohg/). I obtained my Ph.D. at Northeastern University with [Prof. Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) and [Prof. Robin Walters](http://www.robinwalters.com/). My research interests include machine learning and robotics, with a focus on improving sample efficiency and generalization of robot learning. 
 
-Email: dianwang at stanford dot edu / [CV](dian_wang_cv.pdf) 
+Email: dianwang at stanford dot edu / [CV](dian_wang_CV.pdf) 
 
 ## News
 <style>
