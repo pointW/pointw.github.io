@@ -167,7 +167,7 @@ document.addEventListener("DOMContentLoaded", function() {
 </style>
 
 <div class="project-img-container" style="width: 220px">
-  <img src="images/equidiff.png" alt="" style="width: 180px; height: auto;">
+  <img src="images/equidiff.png" alt="" style="width: 220; height: auto;">
 </div>
 <a href="." style="text-decoration: none; color: inherit;"><strong>Equivariant Diffusion Policy for Sample-Efficient Robotic Manipulation</strong></a>  
 **Dian Wang**, Stephen Hart, David Surovik, Tarik Kelestemur, Haojie Huang, Haibo Zhao, Mark Yeatman, Xupeng Zhu, Boce Hu, Mingxi Jia, Jiuguang Wang, Robin Walters, Robert Platt  
@@ -176,7 +176,7 @@ document.addEventListener("DOMContentLoaded", function() {
 <br>
 
 <div class="project-img-container" style="width: 220px">
-  <img src="images/boce_raven.gif" alt="" style="width: 180px; height: auto;">
+  <img src="images/boce_raven.gif" alt="" style="width: 220; height: auto;">
 </div>
 <a href="https://openreview.net/pdf?id=z8BN7KyaPl" style="text-decoration: none; color: inherit;"><strong>RAVEN: End-to-end Equivariant Robot Learning with RGB Cameras</strong></a>  
 David Klee\*, Boce Hu\*, Andrew Cole, Heng Tian, **Dian Wang**, Robert Platt<sup>†</sup>, Robin Walters<sup>†</sup>  
