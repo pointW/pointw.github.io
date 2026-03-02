@@ -169,7 +169,7 @@ document.addEventListener("DOMContentLoaded", function() {
 <div class="project-img-container" style="width: 220px">
   <img src="images/equidiff.png" alt="" style="width: 220; height: auto;">
 </div>
-<a href="." style="text-decoration: none; color: inherit;"><strong>Equivariant Diffusion Policy for Sample-Efficient Robotic Manipulation</strong></a>  
+<a href="https://journals.sagepub.com/doi/pdf/10.1177/02783649261424445" style="text-decoration: none; color: inherit;"><strong>Equivariant Diffusion Policy for Sample-Efficient Robotic Manipulation</strong></a>  
 **Dian Wang**, Stephen Hart, David Surovik, Tarik Kelestemur, Haojie Huang, Haibo Zhao, Mark Yeatman, Xupeng Zhu, Boce Hu, Mingxi Jia, Jiuguang Wang, Robin Walters, Robert Platt  
 *IJRR 2026*  
 <button class="button-4" onclick="window.open('https://journals.sagepub.com/doi/pdf/10.1177/02783649261424445','_blank')">PDF</button>
