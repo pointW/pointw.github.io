@@ -167,6 +167,18 @@ document.addEventListener("DOMContentLoaded", function() {
 </style>
 
 <div class="project-img-container" style="width: 220px">
+  <img src="images/hommi.gif" alt="" style="width: 220; height: auto;">
+</div>
+<a href="https://hommi-robot.github.io" style="text-decoration: none; color: inherit;"><strong>HoMMI: Learning Whole-Body Mobile Manipulation from Human Demonstrations</strong></a>  
+Xiaomeng Xu, Jisang Park, Han Zhang, Eric Cousineau, Aditya Bhat, Jose Barreiros, **Dian Wang**, Shuran Song  
+*Preprint*  
+<button class="button-4" onclick="window.open('https://hommi-robot.github.io','_blank')">Webpage</button>
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2603.03243','_blank')">PDF</button>
+<button class="button-4" onclick="window.open('https://www.youtube.com/watch?v=0rPr9DbPfuo','_blank')">Video</button>
+<button class="button-4" onclick="window.open('https://github.com/xxm19/hommi','_blank')">Code</button>
+<br>
+
+<div class="project-img-container" style="width: 220px">
   <img src="images/equidiff.png" alt="" style="width: 220; height: auto;">
 </div>
 <a href="https://journals.sagepub.com/doi/pdf/10.1177/02783649261424445" style="text-decoration: none; color: inherit;"><strong>Equivariant Diffusion Policy for Sample-Efficient Robotic Manipulation</strong></a>  
