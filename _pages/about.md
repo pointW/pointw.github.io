@@ -170,7 +170,7 @@ document.addEventListener("DOMContentLoaded", function() {
   <img src="images/hommi.gif" alt="" style="width: 220; height: auto;">
 </div>
 <a href="https://hommi-robot.github.io" style="text-decoration: none; color: inherit;"><strong>HoMMI: Learning Whole-Body Mobile Manipulation from Human Demonstrations</strong></a>  
-Xiaomeng Xu, Jisang Park, Han Zhang, Eric Cousineau, Aditya Bhat, Jose Barreiros, **Dian Wang**, Shuran Song  
+Xiaomeng Xu, Jisang Park, Han Zhang, Eric Cousineau, Aditya Bhat, Jose Barreiros, **Dian Wang**, Jeannette Bohg, Shuran Song  
 *RSS 2026*  
 <button class="button-4" onclick="window.open('https://hommi-robot.github.io','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2603.03243','_blank')">PDF</button>
