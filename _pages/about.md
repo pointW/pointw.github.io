@@ -46,6 +46,8 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 
 <ul id="myList">
+  <li>05/2026: I will give a talk at the <a href="https://sites.google.com/view/icra-2026-tutorial-geometry/">3rd Tutorial on Geometric Methods in Robot Learnin, Optimization and Control</a> at ICRA, see you in Vienna!</li>
+  <li>05/2026: <a href="https://mingxi-jia.github.io/gem_page/">Learning Efficient and Robust Language-conditioned Manipulation using Textual-Visual Relevancy and Equivariant Language Mapping</a> is selected as RAL 2025 Best Paper Award Honorable Mention!</li>
   <li>07/2025: Super excited to start my postdoc at Stanford with Prof. Shuran Song and Prof. Jeannette Bohg!</li>
   <li>04/2025: Honored to receive <a href="https://academic-honors.provost.northeastern.edu/graduate-awards/graduate-research-awards/">Northeastern Outstanding Ph.D. Student Award in Research</a>!</li>
   <li>03/2025: Invited talk at <a href="https://bostonsymmetry.github.io/">Boston Symmetry Day</a>.</li>
@@ -261,7 +263,7 @@ Boce Hu\*, Heng Tian\*, **Dian Wang**, Haojie Huang, Xupeng Zhu, Robin Walters, 
 </div>
 <a href="https://mingxi-jia.github.io/gem_page/" style="text-decoration: none; color: inherit;"><strong>Learning Efficient and Robust Language-conditioned Manipulation using Textual-Visual Relevancy and Equivariant Language Mapping</strong></a>  
 Mingxi Jia, Haojie Huang, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, **Dian Wang**, Jason Xinyu Liu, Robin Walters, Robert Platt, Stefanie Tellex  
-*RAL 2025*  
+*RAL 2025, **Best Paper Award Honorable Mention*** 🏆  
 <button class="button-4" onclick="window.open('https://mingxi-jia.github.io/gem_page/','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2406.15677','_blank')">PDF</button>
 <br>
