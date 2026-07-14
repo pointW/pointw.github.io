@@ -169,6 +169,18 @@ document.addEventListener("DOMContentLoaded", function() {
 </style>
 
 <div class="project-img-container" style="width: 220px">
+  <img src="images/mofpo.gif" alt="" style="width: 220; height: auto;">
+</div>
+<a href="https://mofpo.github.io" style="text-decoration: none; color: inherit;"><strong>Mixture of Frames Policy: Multi-Frame Action Denoising for Bimanual Mobile Manipulation</strong></a>  
+**Dian Wang\***, Jisang Park\*, Xiaomeng Xu, Han Zhang, Shuran Song<sup>†</sup>, Jeannette Bohg<sup>†</sup>  
+*Preprint*  
+<button class="button-4" onclick="window.open('https://mofpo.github.io','_blank')">Webpage</button>
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2607.11884','_blank')">PDF</button>
+<button class="button-4" onclick="window.open('https://youtu.be/al_jPI1hxbE','_blank')">Video</button>
+<button class="button-4" onclick="window.open('https://github.com/pointW/mofpo','_blank')">Code</button>
+<br>
+
+<div class="project-img-container" style="width: 220px">
   <img src="images/hommi.gif" alt="" style="width: 220; height: auto;">
 </div>
 <a href="https://hommi-robot.github.io" style="text-decoration: none; color: inherit;"><strong>HoMMI: Learning Whole-Body Mobile Manipulation from Human Demonstrations</strong></a>  
