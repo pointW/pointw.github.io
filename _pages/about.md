@@ -13,9 +13,11 @@ published: true
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 
-I am a Postdoctoral researcher at Stanford University working with [Prof. Shuran Song](https://shurans.github.io) and [Prof. Jeannette Bohg](https://web.stanford.edu/~bohg/). I obtained my Ph.D. at Northeastern University with [Prof. Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) and [Prof. Robin Walters](http://www.robinwalters.com/). My research interests include machine learning and robotics, with a focus on improving sample efficiency and generalization of robot learning. 
+I am an Assistant Professor at the University of Macau. Prior to joining UM, I was a postdoctoral scholar at Stanford University, working with [Prof. Shuran Song](https://shurans.github.io/) and [Prof. Jeannette Bohg](https://web.stanford.edu/~bohg/). I received my Ph.D. from Northeastern University, where I was advised by [Prof. Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) and [Prof. Robin Walters](http://www.robinwalters.com/). 
 
-Email: dianwang at stanford dot edu / [CV](dian_wang_CV.pdf) 
+My research interests include embodied AI, robot learning, robotic manipulation, geometric deep learning, and reinforcement learning. My work was selected as an Outstanding Paper Award Finalist at the Conference on Robot Learning (CoRL) 2024 and received a Best Paper Award Honorable Mention from IEEE Robotics and Automation Letters (RA-L) in 2025. During my Ph.D., I was a recipient of the JPMorgan Chase Ph.D. Fellowship.
+
+Email: dianwang at um dot edu dot mo / [CV](dian_wang_CV.pdf)
 
 ## News
 <style>
@@ -46,7 +48,8 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 
 <ul id="myList">
-  <li>05/2026: I will give a talk at the <a href="https://sites.google.com/view/icra-2026-tutorial-geometry/">3rd Tutorial on Geometric Methods in Robot Learnin, Optimization and Control</a> at ICRA, see you in Vienna!</li>
+  <li>08/2026: Very excited to begin my new role as an Assistant Professor at the University of Macau!</li>
+  <li>05/2026: I will give a talk at the <a href="https://sites.google.com/view/icra-2026-tutorial-geometry/">3rd Tutorial on Geometric Methods in Robot Learning, Optimization and Control</a> at ICRA, see you in Vienna!</li>
   <li>05/2026: <a href="https://mingxi-jia.github.io/gem_page/">Learning Efficient and Robust Language-conditioned Manipulation using Textual-Visual Relevancy and Equivariant Language Mapping</a> is selected as RAL 2025 Best Paper Award Honorable Mention!</li>
   <li>07/2025: Super excited to start my postdoc at Stanford with Prof. Shuran Song and Prof. Jeannette Bohg!</li>
   <li>04/2025: Honored to receive <a href="https://academic-honors.provost.northeastern.edu/graduate-awards/graduate-research-awards/">Northeastern Outstanding Ph.D. Student Award in Research</a>!</li>
@@ -58,13 +61,13 @@ document.addEventListener("DOMContentLoaded", function() {
   <li>07/2024: We are organizing the <a href="https://sites.google.com/view/gas-rl-rss2024">Workshop on Geometric and Algebraic Structure in Robot Learning</a> at RSS 2024.</li>
   <li>07/2024: Blogpost in GRAM Workshop @ ICML 2024: <a href="https://gram-blogposts.github.io/blog/2024/extrinsic/">Correct, Incorrect and Extrinsic Equivariance</a>.</li>
   <li>06/2024: I am proud to be part of the <a href="https://www.youtube.com/watch?v=B9g2yhHs5Wg">Khoury Story</a>!</li>
-  <li>04/2024: I will be returning to the Boston Dynamic AI Institute as a summer intern.</li>
+  <li>04/2024: I will be returning to the Boston Dynamics AI Institute as a summer intern.</li>
   <li>09/2023: Our paper <a href="https://arxiv.org/pdf/2303.04745.pdf">A General Theory of Correct, Incorrect, and Extrinsic Equivariance</a> is accepted at NeurIPS 2023.</li>
   <li>07/2023: Recording of our <a href="https://sites.google.com/view/rss23-sym">Workshop on Symmetries in Robot Learning</a> is available <a href="https://www.youtube.com/watch?v=E2l16T0biu4">here</a>.</li>
   <li>06/2023: I am honored to receive the <a href="https://www.jpmorgan.com/technology/artificial-intelligence/research-awards/phd-fellowship-2023">2023 JP Morgan Chase PhD Fellowship</a>!</li>
   <li>04/2023: I give a guest lecture, <a href="https://www.youtube.com/watch?v=dx5rDtdv7LM">Equivariant Learning for Robotic Manipulation</a>. The lecture summarizes our latest research, so be sure to check it out!</li>
   <li>03/2023: We are organizing the <a href="https://sites.google.com/view/rss23-sym">Workshop on Symmetries in Robot Learning</a> at RSS 2023.</li>
-  <li>02/2023: I will be joining the Boston Dynamic AI Institute as a summer intern.</li>
+  <li>02/2023: I will be joining the Boston Dynamics AI Institute as a summer intern.</li>
   <li>01/2023: Our paper <a href="https://arxiv.org/pdf/2211.09231.pdf">The Surprising Effectiveness of Equivariant Models in Domains with Latent Symmetry</a> is accepted at ICLR 2023 as a spotlight presentation.</li>
   <li>01/2023: Two papers are accepted at ICRA 2023.</li>
 </ul>
@@ -178,6 +181,26 @@ document.addEventListener("DOMContentLoaded", function() {
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2607.11884','_blank')">PDF</button>
 <button class="button-4" onclick="window.open('https://youtu.be/al_jPI1hxbE','_blank')">Video</button>
 <button class="button-4" onclick="window.open('https://github.com/pointW/mofpo','_blank')">Code</button>
+<br>
+
+<div class="project-img-container" style="width: 220px">
+  <img src="images/haojie_amp.gif" alt="Action Map Policy" style="width: 220px; height: auto;">
+</div>
+<a href="https://haojhuang.github.io/amp_page/" style="text-decoration: none; color: inherit;"><strong>Action Map Policy: Learning 3D Closed-loop Manipulation via Pixel Classification</strong></a><br>
+Haojie Huang, Zhang Ye, Linfeng Zhao, Boce Hu, Mingxi Jia, Yu Qi, Ahmed Agha, **Dian Wang**, Robert Platt, Robin Walters<br>
+*Preprint*<br>
+<button class="button-4" onclick="window.open('https://haojhuang.github.io/amp_page/','_blank')">Webpage</button>
+<button class="button-4" onclick="window.open('https://arxiv.org/abs/2607.10706','_blank')">PDF</button>
+<br>
+
+<div class="project-img-container" style="width: 220px">
+  <img src="images/haojie_pix2act.gif" alt="Pix2Act" style="width: 220px; height: auto;">
+</div>
+<a href="https://haojhuang.github.io/pix2act_page/" style="text-decoration: none; color: inherit;"><strong>Pix2Act: Image-Space Manipulation Policies with Equivariant Augmentation</strong></a><br>
+Haojie Huang, Linfeng Zhao, Haotian Liu, Zhang Ye, Si-Yuan Huang, Mingxi Jia, Boce Hu, Fangzhou Lin, Yu Qi, **Dian Wang**, Robin Walters, Robert Platt<br>
+*Preprint*<br>
+<button class="button-4" onclick="window.open('https://haojhuang.github.io/pix2act_page/','_blank')">Webpage</button>
+<button class="button-4" onclick="window.open('https://arxiv.org/abs/2607.11167','_blank')">PDF</button>
 <br>
 
 <div class="project-img-container" style="width: 220px">

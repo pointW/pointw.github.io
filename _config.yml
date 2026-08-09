@@ -11,8 +11,8 @@ locale                   : "en-US"
 title                    : "Dian Wang"
 title_separator          : "-"
 name                     : &name "Dian Wang"
-description              : &description "Postdoc at Stanford"
-url                      : https://pointw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Assistant Professor at the University of Macau"
+url                      : https://www.dianwang.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pointW/pointw.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -85,9 +85,9 @@ analytics:
 # Site Author
 author:
   name             : "Dian Wang"
-  avatar           : "profile.JPG"
-  bio              : "Postdoc at Stanford"
-  location         : "Stanford, California"
+  avatar           : "profile.png"
+  bio              : "Assistant Professor at the University of Macau"
+  location         : "Macau SAR, China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=CckjtfQAAAAJ&hl=en&authuser=1"
@@ -127,6 +127,11 @@ include:
   - _pages
   - files
 exclude:
+  - dian_CV
+  - _pages/cv-json.md
+  - _pages/publications.html
+  - _portfolio
+  - _publications
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

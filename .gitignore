@@ -17,3 +17,6 @@ package-lock.json
 # Ignore the vendor file and bundle for alternative installation
 vendor/
 .bundle/
+
+# Keep the CV project as a separate Git repository
+dian_CV/
