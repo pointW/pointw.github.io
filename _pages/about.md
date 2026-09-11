@@ -75,7 +75,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 ## Publications
 
-For publications, see the [my lab’s research page](https://um-ei.github.io/research/).
+For publications, see the [lab’s research page](https://um-ei.github.io/research/).
 
 <!-- ## Service
 **Organizer:** RSS2023 Workshop on Symmetries in Robot Learning; RSS 2024 Workshop on Geometric and Algebraic Structure in Robot Learning  
